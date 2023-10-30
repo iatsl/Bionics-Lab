@@ -1,5 +1,5 @@
 # UofT Bionics Lab
-Repository for the scripts of all projects related to research at the UofT Bionics Lab.
+Repository for all projects related to research at the UofT Bionics Lab.
 
 For more information on the ExoNet database see link below:
 https://ieee-dataport.org/open-access/exonet-database-wearable-camera-images-human-locomotion-environments
